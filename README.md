@@ -1,4 +1,8 @@
-#  quiz
+# Vue QUIZ
+
+- toistaiseksi kolmen kysymyksen quiz -peli, mutta kehittyneen aikanaan. Nopea README, joten tämä täydentyy vielä.
+
+# quiz
 
 This template should help get you started developing with Vue 3 in Vite.
 
